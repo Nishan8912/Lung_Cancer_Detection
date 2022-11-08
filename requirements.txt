@@ -3,7 +3,6 @@ pandas
 tensorflow
 matplotlib
 seaborn
-PIL
 numpy
 scikit-learn
 gunicorn
