@@ -26,7 +26,7 @@ nav = st.sidebar.radio("Navigation",['Home', 'Prediction',"About Model"])
 if nav=='Home':
   text , images= st.columns(2)
   images.markdown('#')
-  images.image('data// national-cancer-institute-59pGROkKJPE-unsplash.jpg')
+  images.image('data//national-cancer-institute-59pGROkKJPE-unsplash.jpg')
   images.video('https://www.youtube.com/watch?v=AIz-nN2bzLk')
   text.header("What is Lung Cancer?")
   text.write("Cancer is a disease in which cells in the body grow out of control. When cancer starts in the lungs, it is called lung cancer.Lung cancer begins in the lungs and may spread to lymph nodes or other organs in the body, such as the brain.")    
