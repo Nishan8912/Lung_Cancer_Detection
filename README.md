@@ -19,5 +19,7 @@ During project to parameters tuning and deciding the architeture for CNN was com
 ![lung cancer detect 2](https://user-images.githubusercontent.com/85185243/200516955-947fe6a7-ba06-4cb9-a846-36ad9742bf63.jpg)
 ![cancer detect 3](https://user-images.githubusercontent.com/85185243/200516974-76649da9-8c39-45b6-ba24-739b4e527826.jpg)
 ![lung cancer detect 4](https://user-images.githubusercontent.com/85185243/200517154-9dd94f13-2419-4d4b-832d-da63eccf4396.jpg)
+![visual CNN model](https://user-images.githubusercontent.com/85185243/200536823-25c8bf6e-79d8-4c55-86d3-b6a34f30c410.png)
+
 
 
