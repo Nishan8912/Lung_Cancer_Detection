@@ -11,7 +11,7 @@ st.title("Lung Cancer Prediction Web App")
 def load_model(model_name): 
   model = tf.keras.models.load_model(model_name)
   return (model)
-model = load_model("C:\Vacation Practices\stremlit practice\data\CancerModels3")
+model = load_model("data\CancerModels3")
 
 class_names = ['Bengin case', 'Malignant case', 'Normal case']
 
